@@ -1,1 +1,6 @@
+title: lbloft
+name: name
+description: This is a description
 theme: jekyll-theme-cayman
+breadcrumbs: true
+
